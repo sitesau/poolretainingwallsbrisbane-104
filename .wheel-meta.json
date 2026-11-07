@@ -1,0 +1,22 @@
+{
+  "wheel_id": 826,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-104",
+  "project": "pool-retaining-wall-builders-brisbane-faq-c9c4de98ca2c78469e94c",
+  "parent_t1_ref": "poolretainingwallsbrisbane-151",
+  "node_role": "feeder",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining wall builders brisbane faq",
+  "intended_url": "http://pool-retaining-wall-builders-brisbane-faq-c9c4de98ca2c78469e94c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "309793fff2a77932",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/pool-retaining-wall-builders-brisbane-659b7bdf5ba5e6ad38308eff8/",
+      "anchor": "pool retaining wall builders brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
